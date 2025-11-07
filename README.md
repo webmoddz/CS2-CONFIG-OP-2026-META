@@ -5,3 +5,5 @@ launch options:
 mira atualizada roubada dms em pistol e rounds normais
 
 CSGO-Jisob-bkXiH-yRyHk-kAFeX-9mUCP
+
+res: 4:3 streched 1920x1440
